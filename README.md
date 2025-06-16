@@ -76,10 +76,10 @@
 ### 🏅 GitHub Achievements
 
 <p align="center">
-  <a href="https://github.com/raj9661"><img src="https://img.shields.io/badge/Achievement-Arctic%20Code%20Vault-yellow" alt="Arctic Code Vault Contributor" /></a>
-  <a href="https://github.com/raj9661"><img src="https://img.shields.io/badge/Achievement-Starstruck-blue" alt="Starstruck" /></a>
-  <!-- Add more badges as needed -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" width="100" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" width="100" />
 </p>
+
 
 
 ---
@@ -88,9 +88,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sourabh-raj-6a47742a3/"><img src="https://img.shields.io/badge/LinkedIn-Sourabh%20Raj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://gocomfortusa.com"><img src="https://img.shields.io/badge/Portfolio-GoComfortUSA-0A66C2?style=for-the-badge&logo=google-chrome" /></a>
+  <a href="mailto:rajsourabh958@outlook.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://doggiedon-landing.vercel.app/"><img src="https://img.shields.io/badge/Latest%20Project-Doggiedon_Welfare-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
+
 
 ---
 
