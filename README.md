@@ -1,45 +1,38 @@
-<h1 align="center">Hi there, I'm Sourabh 👋</h1>
+<h1 align="center">
+  👋 Hi there, I'm <span style="color:#3B82F6">Sourabh</span>
+</h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raj9661&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Prompt+Engineer+%7C+AI+Wizard;Building+AI-Driven+Web+Systems" alt="Typing SVG" />
 </p>
 
 ---
 
-🎯 **About Me**
-- 🧠 Full Stack Developer • Cybersecurity Enthusiast • Prompt Engineer  
-- 🤖 Skilled in designing professional AI prompts for GPT, Gemini, Claude & more  
-- 🛡️ Exploring ethical hacking, secure coding, and system hardening  
-- 🌐 Building powerful web systems with **Next.js**, **Express.js**, **CockroachDB**, **Prisma**, and **Tailwind CSS**
-- 🛠️ Passionate about impactful domains: **Education**, **Healthcare**, **E-commerce**, and **Finance**
-- 🧰 Pro at automation, API integrations (Google Drive, Facebook), and admin dashboards
-- 🚀 Currently building:  
-  - 🧾 AI-powered NGO Management System  
-  - 🎮 3D Hackathon Platform with live code execution  
-  - 🏠 GoComfortUSA – USA’s go-to for IKEA, rent & travel discounts  
+<p align="center">
+  <a href="https://gocomfortusa.com"><img src="https://img.shields.io/badge/Website-GoComfortUSA-blue?style=for-the-badge&logo=google-chrome" /></a>
+  <a href="https://github.com/raj9661"><img src="https://img.shields.io/github/followers/raj9661?style=for-the-badge" /></a>
+  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://linkedin.com/in/sourabh"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+</p>
 
 ---
 
-🧠 **Prompt Engineering & AI Integration**
-- ✍️ Crafting highly effective prompts for professional outcomes  
-- 🎨 Generating content, images, and visuals using tools like ChatGPT, Gemini, Midjourney, and DALL·E  
-- 🔗 Integrating LLMs with apps for smarter workflows  
-- 🧠 Prompting for: Web Dev, UI Design, Marketing, Docs, Code, Diagrams & Ads
+### 💡 About Me
+- 🧠 **Full Stack Developer**, **Prompt Engineer**, and **Cybersecurity Enthusiast**
+- 🛠 Building secure, AI-powered apps in **Education**, **Healthcare**, **E-commerce**, and **Finance**
+- 🧠 Pro at crafting AI prompts for tools like **ChatGPT**, **Gemini**, **Midjourney**, **Claude**
+- 🛡 Exploring ethical hacking, automation, and web app security
+- 🧰 Always looking to solve real-world problems through clean, modern tech
 
 ---
 
-🔐 **Cybersecurity Interests**
-- 🕵️‍♂️ Ethical Hacking, Web App Security & Bug Bounties  
-- 🔐 JWT, OAuth, CSRF, XSS, SQLi — prevention & testing  
-- 🧪 Tools: **Burp Suite**, **OWASP ZAP**, **Wireshark**, **Nmap**, etc.
-
----
-
-🧰 **Tech Stack**
+### ⚙️ Tech & Tools
 
 ```yaml
-Frontend:   Next.js • React • TypeScript • Tailwind CSS
-Backend:    Node.js • Express.js • Prisma ORM
-Database:   CockroachDB • PostgreSQL • Redis
-AI Tools:   ChatGPT • Gemini • Midjourney • DALL·E • Claude
-Security:   JWT • BullMQ • WebSockets • Secure API Practices
-Dev Tools:  Git • GitHub • Vercel • Render • Google Apps Script • Judge0
+Languages:   JavaScript • TypeScript • Python • SQL
+Frontend:    Next.js • React • Tailwind CSS
+Backend:     Node.js • Express.js • Prisma
+Database:    CockroachDB • PostgreSQL • Redis
+AI Tools:    ChatGPT • Gemini • Midjourney • Claude
+DevOps:      Vercel • Render • Git • Google Apps Script
+Security:    JWT • OAuth2 • WebSocket Auth • OWASP Practices
