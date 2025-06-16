@@ -37,15 +37,10 @@
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Google Apps Script-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
 </p>
 
 ---
-### 🏅 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api/achievements?username=raj9661&theme=dark&row=2&column=4" />
-</p>
 
 ### 🧾 Projects
 
@@ -78,11 +73,22 @@
 
 ---
 
+### 🏅 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/raj9661"><img src="https://img.shields.io/badge/Achievement-Arctic%20Code%20Vault-yellow" alt="Arctic Code Vault Contributor" /></a>
+  <a href="https://github.com/raj9661"><img src="https://img.shields.io/badge/Achievement-Starstruck-blue" alt="Starstruck" /></a>
+  <!-- Add more badges as needed -->
+</p>
+
+
+---
+
 ### 🔗 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sourabh-raj-6a47742a3/"><img src="https://img.shields.io/badge/LinkedIn-Sourabh%20Raj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rajsourabh958@outlook.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://gocomfortusa.com"><img src="https://img.shields.io/badge/Portfolio-GoComfortUSA-0A66C2?style=for-the-badge&logo=google-chrome" /></a>
 </p>
 
