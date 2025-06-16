@@ -1,83 +1,90 @@
-<h1 align="center">Hey 👋, I'm <span style="color:#3B82F6">Sourabh Raj</span></h1>
+<h1 align="center">Hi 👋, I'm Sourabh Raj</h1>
+<h3 align="center">Full Stack Developer | Prompt Engineer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+Prompt+Engineer+%7C+Cybersecurity+Enthusiast;AI+Automator+%7C+Intern+%40+Vastek+%26+Supersky;I+Design+Smart+Systems+With+Secure+Code+%26+Clean+UI" alt="Typing Intro" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/raj9661"><img src="https://img.shields.io/github/followers/raj9661?style=for-the-badge&label=GitHub&logo=github" /></a>
-  <a href="mailto:rjsourabh958@outlook.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sourabh-raj-6a47742a3/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Cybersecurity+Enthusiast+%7C+AI+Prompt+Engineer;Automation+Tools+Builder+%7C+Intern+@+Vastek+%26+Supersky" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔧 **Full Stack Developer** | ⚔️ **Cybersecurity Learner** | 🧠 **Prompt Engineer**
-- 🤖 I design **professional AI prompts** that drive high-quality results using **ChatGPT, Gemini, Claude, and Midjourney**
-- 📬 Created an **Auto Bulk Email Sender Tool** in Python that sends personalized emails **without going to spam/junk folders**
-- 🛠️ Passionate about secure, scalable, and cleanly architected systems with user-first UI
-- 🎓 Currently completing my degree; recently developed:
-  - 🐶 **Doggiedon Web App**
-  - 🧾 **NGO Management System** with dynamic backend-controlled Navbar, JWT auth, donor notifications, and analytics dashboard
+- 🔧 Passionate Full Stack Developer, AI Prompt Engineer, and Cybersecurity Enthusiast
+- 🧠 Expert at crafting AI prompts for tools like ChatGPT, Gemini, Claude, Midjourney
+- 🤖 Built a **Python-based Auto Bulk Email Sender** that sends personalized emails without hitting junk folders
+- 👨‍🎓 Recently worked on two major college projects:
+  - 🧾 **NGO Management System** (Landing Page + Inventory System)
+  - 🐶 **DoggieDon Web App** (Landing Page with backend navbar control)
+- 👨‍💼 Interned at:
+  - 🏢 **Vastek Inc** – IT & Nursing Recruiter + Web Developer
+  - 🏢 **Supersky FiberNet** – ISP Web Development Intern
 
 ---
 
-### 🚀 Key Highlights
+### 🛠️ Languages & Tools
 
-#### 🧠 Prompt Engineering
-- ✨ Built creative + technical prompts for web UI, marketing, automation, AI integration, and image generation  
-- 🔗 Prompted across multiple domains like education, e-commerce, health, recruiting, and finance  
-
-#### ⚙️ Automation
-- 📬 Developed a **Python-powered bulk email sender** that sends **customized emails with name, subject & content**, ensuring **high deliverability**
-- 🔁 Automated report generation, Google Sheet APIs, Telegram bots, and CRM workflows
-
-### 🧾 NGO Management System (College Project)
-
-- 👥 Collaborated with a **4-member team**, where each member developed one major module:
-  - 📲 Mobile App
-  - 💳 Donation Page
-  - 🛒 E-commerce Page
-  - 🌐 **Landing Page & Inventory Management** (developed by me)
-- 🎨 Designed a professional **landing page** to integrate all modules into a single system
-- 🧠 Built the complete **NGO Inventory & Donation Management System**, featuring:
-  - 🥇 Live view of **Top Donors**
-  - 📬 Email system to send **thank-you & notification emails**
-  - 🔐 **JWT-secured authentication system**
-  - 🧩 **Backend-controlled navbar** — dynamic UI updates based on admin settings
-  - ⚡ Fast-loading, clean, and user-friendly interface
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CockroachDB-6933FF?style=for-the-badge&logo=cockroachlabs&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google Apps Script-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🐶 DoggieDon Web App (College Project)
+### 🧾 Projects
 
-- 🐾 Part of a team project to develop a **pet product delivery platform**
-- 💻 I developed the **landing page** and integrated key frontend-backend functionalities
-- 🧩 Created a **backend-controlled dynamic navbar**, enabling admin to toggle UI elements
-- 🚀 Focused on simplicity, performance, and cloud-ready deployment
- 
----
+#### ✅ NGO Management System (College Project)
+- 👥 Collaborated in a 4-member team:
+  - 📲 Mobile App, 💳 Donation Page, 🛒 E-Commerce, 🌐 Landing Page & Inventory (me)
+- 🎨 I developed the **landing page** integrating all modules into one system
+- 🔐 JWT-secured admin dashboard, real-time **Top Donor analytics**, **email notifications**, and **dynamic navbar**
 
-### 👨‍💼 Internships
-
-| 🏢 Company             | 📌 Role                                      |
-|------------------------|----------------------------------------------|
-| **Vastek Inc (USA)**   | IT & Nursing Recruiter + Web Developer Intern |
-| **Supersky FiberNet**  | Networking Intern @ ISP Company           |
+#### 🐶 DoggieDon Web App (College Project)
+- 🧩 Developed the **landing page** with a **backend-controlled dynamic navbar**
+- ☁️ Deployed cloud-based APK integration for pet product delivery
 
 ---
 
-### 🧰 Tech Stack
+### 📈 GitHub Stats
 
-```yaml
-Frontend:    Next.js • React • Tailwind CSS • HTML • CSS • TypeScript
-Backend:     Node.js • Express.js • Prisma • Google Apps Script
-Database:    CockroachDB • PostgreSQL • Redis
-Security:    JWT • OAuth2 • Secure REST APIs • WebSockets • BullMQ
-AI/LLMs:     ChatGPT • Gemini • Midjourney • Claude
-Tools:       Git • GitHub • Vercel • Render • Canva • Figma
-Automation:  Python • Selenium • smtplib • Google APIs
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raj9661&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raj9661&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+---
+
+### 📊 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raj9661&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sourabh-raj-6a47742a3/"><img src="https://img.shields.io/badge/LinkedIn-Sourabh%20Raj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rajsourabh958@outlook.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://gocomfortusa.com"><img src="https://img.shields.io/badge/Portfolio-GoComfortUSA-0A66C2?style=for-the-badge&logo=google-chrome" /></a>
+</p>
+
+---
+
+### 🔥 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raj9661&style=flat-square&color=blue" alt="Visitor Count" />
+</p>
