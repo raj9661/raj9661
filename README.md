@@ -12,9 +12,9 @@
 - 🛠️ Love working on impactful products in **Education**, **Healthcare**, **E-commerce**, and **Finance**
 - 🤖 Skilled in automation, API integrations (Google Drive, Facebook), and admin dashboard systems
 - 🚀 Currently working on:  
-  - 🧾 AI-driven NGO Management System  
+  - 🧾 Doggiedon NGO Management System  
   - 🎮 LeetCode-style Hackathon Platform with 3D animations  
-  - 🏠 GoComfortUSA – Travel, IKEA deals, and rent discounts across the U.S.
+  
 
 ---
 
