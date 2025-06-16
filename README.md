@@ -7,7 +7,6 @@
 ---
 
 <p align="center">
-  <a href="https://gocomfortusa.com"><img src="https://img.shields.io/badge/Portfolio-GoComfortUSA-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://github.com/raj9661"><img src="https://img.shields.io/github/followers/raj9661?style=for-the-badge&label=GitHub&logo=github" /></a>
   <a href="mailto:rjsourabh958@outlook.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sourabh-raj-6a47742a3/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
