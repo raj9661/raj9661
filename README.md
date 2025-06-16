@@ -46,7 +46,6 @@
 <p align="center">
   <img src="https://github-profile-achievements.vercel.app/api/achievements?username=raj9661&theme=dark&row=2&column=4" />
 </p>
----
 
 ### 🧾 Projects
 
