@@ -45,17 +45,25 @@
 
 ---
 
-### 🧾 Projects
+## 🧾 Projects
 
-#### ✅ NGO Management System (College Project)
-- 👥 Collaborated in a 4-member team:
-  - 📲 Mobile App, 💳 Donation Page, 🛒 E-Commerce, 🌐 Landing Page & Inventory (me)
-- 🎨 I developed the **landing page** integrating all modules into one system
-- 🔐 JWT-secured admin dashboard, real-time **Top Donor analytics**, **email notifications**, and **dynamic navbar**
+### ✅ NGO Management System (College Project)
+- 👥 Collaborated in a 4-member team:  
+  - 📲 Mobile App, 💳 Donation Page, 🛒 E-Commerce, 🌐 Landing Page & Inventory (**my role**)  
+- 🎨 Developed the **landing page** integrating all modules into a unified system  
+- 🔐 Created a **JWT-secured admin dashboard**, real-time **Top Donor analytics**, **email alerts**, and **dynamic navbar**
 
-#### 🐶 DoggieDon Web App (College Project)
-- 🧩 Developed the **landing page** with a **backend-controlled dynamic navbar**
-- ☁️ Deployed cloud-based APK integration for pet product delivery
+### 🐶 DoggieDon Web App (College Project)
+- 🧩 Built the **landing page** with a **backend-controlled dynamic navbar**  
+- ☁️ Enabled cloud-based APK deployment for pet product delivery management
+
+### 🛡️ AutoBountyAI – AI-Powered Web Vulnerability Scanner
+- 💻 Developed a full-stack AI-based scanner using **Python**, **asyncio**, and the **Gemini API**, with all code and tools built using **AI assistance**  
+- 🧠 Integrated an adaptive AI engine for **payload tuning**, **false positive reduction**, and **automated remediation guidance**  
+- ⚔️ Implemented detection for OWASP threats like **SQLi, XSS, LFI, SSRF, IDOR**, and **auth bypass**  
+- 📄 Generated detailed reports in **JSON**, **Markdown**, and **Word**, including executive summaries and risk scores  
+- 📦 Containerized with **Docker**, supported **50+ concurrent scans**, and featured a modular CLI interface  
+- 🚧 Continuously improving speed, accuracy, and usability with iterative AI feedback
 
 ---
 
